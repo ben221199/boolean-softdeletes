@@ -22,7 +22,7 @@ namespace LaravelJsonApi\BooleanSoftDeletes\Drivers;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use LaravelJsonApi\Eloquent\Drivers\StandardDriver;
-use Webkid\LaravelBooleanSoftdeletes\SoftDeletesBoolean;
+use Yocto\Illuminate\Database\Eloquent\SoftDeletesBoolean;
 use function boolval;
 
 class SoftDeleteBooleanDriver extends StandardDriver
