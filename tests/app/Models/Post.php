@@ -21,7 +21,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Webkid\LaravelBooleanSoftdeletes\SoftDeletesBoolean;
+use Yocto\Illuminate\Database\Eloquent\SoftDeletesBoolean;
 
 class Post extends Model
 {

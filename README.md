@@ -1,7 +1,7 @@
 # laravel-json-api/boolean-softdeletes
 
 [Laravel JSON:API](https://laraveljsonapi.io) integration for the
-[tenantcloud/boolean-softdeletes](https://github.com/tenantcloud/laravel-boolean-softdeletes) package.
+[yocto/illuminate-database-softdeletes](https://github.com/yocto/illuminate-database-softdeletes) package.
 
 ## Installation
 
